@@ -8,7 +8,7 @@ Based on your choice there 3 use cases:
 
 1.  If you choose y:
     It will show you two numbers, like when you play dice.
-    [!image](D:\projects\python-beginner-projects\dice_rolling_game\images\sc1.png)
+    [!image](\images\sc1.png)
 
 2.  If you choose n:
     it will be terminated with a greeting message.
