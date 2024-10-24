@@ -2,17 +2,17 @@
 
 ## Using basic python
 
-This game ask you a question to choice an option between y (means yes) and n (means no). <br>
-Base on your choice there 3 use case:
+This game asks you to choose an option between y (means yes) and n (means no). <br>
+Based on your choice there 3 use cases:
 <br>
 
-1.  If you choice y:
-    it will show you two numbers like dice play.
-    [!image](./images/sc1.png)
+1.  If you choose y:
+    It will show you two numbers, like when you play dice.
+    [!image](D:\projects\python-beginner-projects\dice_rolling_game\images\sc1.png)
 
-2.  If you choice n:
+2.  If you choose n:
     it will be terminated with a greeting message.
     [!image](/images/sc3.png)
 3.  and all the other cases:
-    it say that invalid option and give you another chance to enter your choice
+    it says that it is an invalid option and gives you another chance to enter your choice
     [!image](/images/sc2.png)
